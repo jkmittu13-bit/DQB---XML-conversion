@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini QTI Architect",
+  "description": "A high-performance web application to convert PDFs and text documents into standard QTI XML assessments using Gemini 3's advanced reasoning.",
+  "requestFramePermissions": []
+}
